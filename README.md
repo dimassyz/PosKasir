@@ -1,3 +1,8 @@
+Anggota Kelompok:
+- Dimas Setiawan
+- Rimbhiatho Aurindra
+- M Araka Ridhwan Akbar
+
 # Aplikasi Restoran Nusantara (Kasir & Admin)
 
 Aplikasi web kasir dan panel admin yang dirancang untuk mengelola operasional restoran dengan berbagai macam menu khas Indonesia.
