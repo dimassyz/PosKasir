@@ -11,19 +11,19 @@ Aplikasi Restoran Nusantara adalah sebuah sistem Point of Sale (POS) dan manajem
 - Fitur Pencarian: Mencari produk dengan cepat berdasarkan nama.\
 
   Daftar Fitur
-Bagian Kasir (Dioperasikan oleh Staf)
-Login Staf: Sistem login terpusat untuk kasir dan admin.
-Pemesanan Atas Nama: Mengidentifikasi pesanan berdasarkan nama pelanggan, cocok untuk alur "pesan & bayar di kasir".
-Tampilan Menu Dinamis:
-Produk ditampilkan dalam grid yang responsif.
-Navigasi menu berdasarkan kategori (Makanan Berat, Cemilan, Minuman, dll.).
-Info stok real-time ditampilkan di setiap kartu produk dengan indikator warna (menipis/habis).
-Keranjang Pesanan Interaktif:
-Menambah dan mengurangi kuantitas item.
-Validasi otomatis untuk mencegah pemesanan melebihi stok.
-Total harga dan jumlah item terupdate secara real-time.
-Fitur Pencarian: Mencari produk dengan cepat berdasarkan nama.
-Proses Pembayaran:
+Bagian Kasir (Dioperasikan oleh Staf):
+- Login Staf: Sistem login terpusat untuk kasir dan admin.
+- Pemesanan Atas Nama: Mengidentifikasi pesanan berdasarkan nama pelanggan, cocok untuk alur "pesan & bayar di kasir".
+- Tampilan Menu Dinamis:
+- Produk ditampilkan dalam grid yang responsif.
+- Navigasi menu berdasarkan kategori (Makanan Berat, Cemilan, Minuman, dll.).
+- Info stok real-time ditampilkan di setiap kartu produk dengan indikator warna (menipis/habis).
+- Keranjang Pesanan Interaktif:
+- Menambah dan mengurangi kuantitas item.
+- Validasi otomatis untuk mencegah pemesanan melebihi stok.
+- Total harga dan jumlah item terupdate secara real-time.
+- Fitur Pencarian: Mencari produk dengan cepat berdasarkan nama.
+`Proses Pembayaran:
 Alur pembayaran yang terintegrasi langsung di halaman kasir.
 Simulasi proses pembayaran yang mengupdate stok dan mencatat transaksi.
 Notifikasi pop-up untuk transaksi yang berhasil.
